@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/black">
+
+
+    <ImageButton
+        android:id="@+id/ibn_close_nav"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@android:color/transparent"
+        android:padding="10dp"
+        android:src="@drawable/dolphin"
+        android:visibility="visible"
+        android:layout_alignParentRight="true"/>
+
+
+</RelativeLayout>
